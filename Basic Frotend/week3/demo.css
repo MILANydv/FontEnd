@@ -1,0 +1,28 @@
+form{
+    padding: 10px;
+    background-color: rgb(158, 84, 226);
+    border: rgb(221, 35, 72);
+    align-self: start;
+    grid-row-end: auto;
+}
+label{
+    color: rgba(12, 4, 56, 0.788);
+    padding: 10px;
+    margin-top: 20px;
+    align-self: start;
+}
+.btn{
+    color: rgb(10, 119, 59);
+    background-color: darkseagreen;
+    border-radius: 20;
+    border-color: firebrick;
+    align-items: center;
+}
+.drop{
+    color: rgb(10, 119, 59);
+    background-color: darkseagreen;
+    align-self: start;
+}
+input{
+    align-content: flex-end;
+}
